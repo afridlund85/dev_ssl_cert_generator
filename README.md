@@ -2,7 +2,7 @@
 
 Create your own self signed ssl certificate for local web development.
 
-Most of this comes from [Soarez](https://github.com/Soarez) 
+Most of this comes from [Soarez](https://github.com/Soarez)
 and [this gist](https://gist.github.com/Soarez/9688998) with some tweaks.
 
 ## How to
@@ -22,7 +22,7 @@ Apache nginx etc
 
 ### 3. Add root ca to trusted
 
-** -- ONLY NEED TO DO THIS ONCE -- **
+**-- ONLY NEED TO DO THIS ONCE --**
 
 Use the supplied root ca certificate in the ca directory `ca/ca.crt`.
 Adding this to trusted will make all your future certificates work as well.
@@ -50,4 +50,4 @@ replace the ones in the `ca`-directory
 
 ## Change settings
 
-`ca/ca.cnf` contains all the settings
+`ca/ca.cnf` and `templates/_example.cnf` contains all the settings
