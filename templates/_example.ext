@@ -1,0 +1,7 @@
+basicConstraints=CA:FALSE
+subjectKeyIdentifier=hash
+subjectAltName=@alt_names
+
+[ alt_names ]
+DNS.1 = *.__example.local__
+DNS.2 = __example.local__
