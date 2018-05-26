@@ -2,8 +2,8 @@
 
 Create your own self signed ssl certificate for local web development.
 
-Most of this comes from [Soarez](https://github.com/Soarez)
-[and the gist](https://gist.github.com/Soarez/9688998) with some tweaks.
+Most of this comes from [Soarez](https://github.com/Soarez) 
+and [this gist](https://gist.github.com/Soarez/9688998) with some tweaks.
 
 ## How to
 
